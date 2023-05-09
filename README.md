@@ -1,4 +1,4 @@
-<div align=center> 🌱 Hi, I’m so hyun 🌱 
+<div align=center> 🌱 Hi, I’m sohyun. 🌱 
 <br></br>
 👀 I’m interested in ... 
 
