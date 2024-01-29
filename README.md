@@ -1,8 +1,12 @@
 <div align=center> 🌱 Hi, I’m sohyun. 🌱 
 <br></br>
-👀 I’m interested in ... 
+🌱 I'm in the software engineering lab for a master's degree.
 
-🌱 I’m currently learning ...
+ 👀 My interests lie in SW Engineering, specifically emphasizing Software Testing and Software Maintenance.
+
+
+
+
 
 <br>
 <div align=center> 📫 Contact Me </div>
